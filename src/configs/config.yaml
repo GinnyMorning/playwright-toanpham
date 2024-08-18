@@ -1,0 +1,13 @@
+environments:
+  sandbox:
+    baseUrl: "https://www.saucedemo.com"
+    username: "standard_user"
+    password: "secret_sauce"
+  staging:
+    baseUrl: "https://staging.saucedemo.com"
+    username: "stagingUser"
+    password: "stagingPassword"
+  production:
+    baseUrl: "https://production.saucedemo.com"
+    username: "productionUser"
+    password: "productionPassword"
