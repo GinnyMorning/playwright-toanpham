@@ -53,7 +53,7 @@ npm run test
 You can specify a test file or directory:
 
 ```bash
-npx playwright test tests/cart.spec.ts
+npx playwright test src/tests/ui/inventory.spec.ts
 ```
 
 ### Run Tests in Headed Mode
